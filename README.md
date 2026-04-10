@@ -6,4 +6,4 @@ I use Github mainly for contributing to other projects. See my [codeberg.org pro
 
 # 📊 GitHub Stats:
 
-![]([https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005](https://github-readme-stats-fast.vercel.app/api?username=mutlusun&show=reviews,prs_merged&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true))
+[![](https://github-readme-stats-fast.vercel.app/api?username=mutlusun&show=reviews,prs_merged&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
